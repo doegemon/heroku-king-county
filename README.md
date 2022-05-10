@@ -10,7 +10,7 @@ Inicialmente, quero destacar que esse é meu primeiro projeto de Análise de Dad
  b) Uma vez efetuada a compra de um imóvel, qual o melhor momento para vendê-lo? Por qual preço?
  
 ## 1.2 Hipóteses de Negócio
- a) Imóveis que posseum vista para a água são 30% mais caros
+ a) Imóveis que possuem vista para a água são 30% mais caros
  
  b) Imóveis com data de construção anterior a 1955 são 50% mais baratos
  
@@ -18,7 +18,7 @@ Inicialmente, quero destacar que esse é meu primeiro projeto de Análise de Dad
  
  d) O crescimento dos preços dos imóveis YoY (Year over Year) é de 10%
  
- e) Entre as casas construída antes de 1955, as renovadas tem um preço 10% maior
+ e) Entre as casas construída antes de 1955, as renovadas têm um preço 10% maior
  
 # 2.0 Premissas
 Para responder a segunda pergunta de negócio, especificamente sobre o melhor momento para vender um imóvel, fiz uma análise com base nas estações do ano, sendo que considerei Verão e Primavera como 'Summer' e Inverno e Outono como 'Winter'. 
@@ -32,7 +32,7 @@ Para responder a segunda pergunta de negócio, especificamente sobre o melhor mo
  
  b) Primeiro foi feita uma análise para verificar se as estações do ano afetam o preço dos imóveis, sendo que pode-se concluir que no verão o valor dos imóveis tende a ser maior que a mediana do preço dos imóveis na região em que ele se encontra, enquanto no inverno ocorre o oposto.
  
- Depois, com base nos imóveis que foram anunciandos durante o verão e que estavam com o preço acima da mediana do preço dos imóveis da região, foi verificado que, na medianda, os imóveis estavam sendo anunciados com um preço 24.5% maior que os imóveis da região. 
+ Depois, com base nos imóveis que foram anunciados durante o verão e que estavam com o preço acima da mediana do preço dos imóveis da região, foi verificado que, na mediana, os imóveis estavam sendo anunciados com um preço 24.5% maior que os imóveis da região. 
  
  Assim, com base nos imóveis com recomendação de compra, foi sugerido um possível preço de venda mediante a aplicação desse adicional de 24.5%, calculando o possível lucro em cada operação.
 
@@ -52,7 +52,7 @@ Esse foi um projeto visando trazer alguns Insights sobre os imóveis disponívei
 
 As respostas para as perguntas de negócio são apenas sugestões com base na análise de dados, mas que servem de fundamento para a realização de negócios que podem trazer bons resultados, sendo demonstrado os imóveis com 'bom preço' e sugerido um possível preço de venda levando em conta a estação do ano.
 
-De igual forma, as hipóteses aqui testadas também trazem informações importantes para a tomada de decisões e forma de condução de negócios, principalmente a última, onde se demonstrou que os imóveis antigos renovados tem um valor maior em comparação aos imóveis antigo não renovados. 
+De igual forma, as hipóteses aqui testadas também trazem informações importantes para a tomada de decisões e forma de condução de negócios, principalmente a última, onde se demonstrou que os imóveis antigos renovados têm um valor maior em comparação aos imóveis antigos não renovados. 
 
 # Referências
 
